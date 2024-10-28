@@ -1,1 +1,1 @@
-# DragoCam - Klaudiusz Wojtyczka
+# DragoCam - Head of @NightzyStudios | nightzy.net
