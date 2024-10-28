@@ -1,1 +1,1 @@
-# DragoCam - Head of @NightzyStudios | nightzy.net
+# DragoCam - Head of https://nightzy.net
