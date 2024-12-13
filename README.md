@@ -2,9 +2,9 @@ DragoCam - Head of Nightzy
 
 Hello and welcome to my profile! I am the Head of **Nightzy**, a creative game development studio focused on crafting immersive and engaging gaming experiences. At Nightzy, we strive to push the boundaries of game design, fusing unique storytelling with innovative gameplay mechanics.
 
-## About Nightzy Studios
+## About Nightzy
 
-Nightzy Studios is the creative force behind several exciting projects, including:
+Nightzy is the creative force behind several exciting projects, including:
 
 - **Novastars**: TBA
 
@@ -14,9 +14,9 @@ Nightzy Studios is the creative force behind several exciting projects, includin
 
 ## My Role
 
-As the Head at Nightzy Studios, I lead at all levels of game development, from brainstorming to launch. My role includes:
+As the Head at Nightzy, I lead at all levels of game development, from brainstorming to launch. My role includes:
 
-Leading design and direction for our games to make sure that each of our projects fits the vision for the studio. Leading a great team of developers, artists, and designers to help bring those ideas to life. Interacting with the gaming community to create experiences that our audience loves. Oversees marketing and branding initiatives in order to build Nightzy Studios into a recognizable brand within the industry.
+Leading design and direction for our games to make sure that each of our projects fits the vision for the studio. Leading a great team of developers, artists, and designers to help bring those ideas to life. Interacting with the gaming community to create experiences that our audience loves. Oversees marketing and branding initiatives in order to build Nightzy into a recognizable brand within the industry.
 
 ## My Skills
 
