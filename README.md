@@ -1,6 +1,6 @@
 # DragoCam - Head of Nightzy
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=blender,cpp,css,html,js,mongodb,nodejs,py,react,sqlite,unreal" />
+    <img src="https://skillicons.dev/icons?i=blender,cpp,css,html,java,js,mongodb,nodejs,py,react,sqlite,unreal" />
 </p>
 
 ## Contact & Socials
